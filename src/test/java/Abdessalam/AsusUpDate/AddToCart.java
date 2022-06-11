@@ -2,11 +2,10 @@ package Abdessalam.AsusUpDate;
 
 
 import base.CommonAPI;
-import org.testng.Assert;
 import org.testng.annotations.Test;
-import pages.AsusHomePage;
-import pages.AsusLaptopDealPage;
-import pages.AsusLogInPage;
+import ebaypages.AsusHomePage;
+import ebaypages.AsusLaptopDealPage;
+import ebaypages.AsusLogInPage;
 public class AddToCart extends CommonAPI {
 
     @Test

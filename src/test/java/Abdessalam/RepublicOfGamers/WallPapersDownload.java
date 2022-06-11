@@ -3,8 +3,8 @@ package Abdessalam.RepublicOfGamers;
 import base.CommonAPI;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import pages.RepublicOfGamersHomePage;
-import pages.WallPapersPage;
+import ebaypages.RepublicOfGamersHomePage;
+import ebaypages.WallPapersPage;
 
 public class WallPapersDownload extends CommonAPI {
     @Test

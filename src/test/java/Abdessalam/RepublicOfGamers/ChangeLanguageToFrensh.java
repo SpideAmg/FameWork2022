@@ -3,8 +3,8 @@ package Abdessalam.RepublicOfGamers;
 import base.CommonAPI;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import pages.LanguagePage;
-import pages.RepublicOfGamersHomePage;
+import ebaypages.LanguagePage;
+import ebaypages.RepublicOfGamersHomePage;
 
 public class ChangeLanguageToFrensh extends CommonAPI {
     @Test

@@ -3,7 +3,7 @@ package Abdessalam.AsusUpDate;
 import base.CommonAPI;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import pages.AsusHomePage;
+import ebaypages.AsusHomePage;
 
 public class Assertion extends CommonAPI {
 

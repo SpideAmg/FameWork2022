@@ -1,9 +1,8 @@
 package Abdessalam.HomeWork;
 
 import base.CommonAPI;
-import org.openqa.selenium.support.FindBy;
 import org.testng.annotations.Test;
-import pages.ShittyPage;
+import ebaypages.ShittyPage;
 
 public class CheckBox extends CommonAPI {
     @Test

@@ -3,9 +3,8 @@ package Abdessalam.RepublicOfGamers;
 import base.CommonAPI;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import pages.ROGLogInPage;
-import pages.RepublicOfGamersHomePage;
-import zmq.socket.reqrep.Rep;
+import ebaypages.ROGLogInPage;
+import ebaypages.RepublicOfGamersHomePage;
 
 public class LogInPositive extends CommonAPI {
     @Test

@@ -2,8 +2,8 @@ package eaby;
 
 import base.CommonAPI;
 import org.testng.annotations.Test;
-import pages.ebayHomePage;
-import pages.SearchResultPage;
+import ebaypages.ebayHomePage;
+import ebaypages.SearchResultPage;
 
 public class HomePageTest extends CommonAPI {
 

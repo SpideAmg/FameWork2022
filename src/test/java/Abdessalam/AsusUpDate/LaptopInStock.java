@@ -2,8 +2,8 @@ package Abdessalam.AsusUpDate;
 
 import base.CommonAPI;
 import org.testng.annotations.Test;
-import pages.AllSeriesLaptopPage;
-import pages.AsusHomePage;
+import ebaypages.AllSeriesLaptopPage;
+import ebaypages.AsusHomePage;
 
 public class LaptopInStock extends CommonAPI {
     @Test

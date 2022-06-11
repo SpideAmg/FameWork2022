@@ -2,8 +2,8 @@ package Abdessalam.RepublicOfGamers;
 
 import base.CommonAPI;
 import org.testng.annotations.Test;
-import pages.ArmouryCratePage;
-import pages.RepublicOfGamersHomePage;
+import ebaypages.ArmouryCratePage;
+import ebaypages.RepublicOfGamersHomePage;
 
     public class PlayWithScrollDown extends CommonAPI {
         @Test

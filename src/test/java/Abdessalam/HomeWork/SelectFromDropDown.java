@@ -2,7 +2,7 @@ package Abdessalam.HomeWork;
 
 import base.CommonAPI;
 import org.testng.annotations.Test;
-import pages.ShittyPage;
+import ebaypages.ShittyPage;
 
 
     public class SelectFromDropDown extends CommonAPI {
