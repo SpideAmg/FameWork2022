@@ -1,8 +1,6 @@
 package Forever21;
 import base.CommonAPI;
-import org.openqa.selenium.UsernameAndPassword;
 import org.testng.annotations.Test;
-import pages.HomePage;
 import pages.LoginPage;
 
 

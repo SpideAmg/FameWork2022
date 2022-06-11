@@ -2,7 +2,7 @@ package Forever21;
 
 import base.CommonAPI;
 import org.testng.annotations.Test;
-import pages.HomePage;
+import pages.homepagefar;
 import pages.WomenSectionPage;
 
 public class HomePageTest extends CommonAPI {
@@ -12,7 +12,7 @@ public class HomePageTest extends CommonAPI {
 
 public void AccessGiftCardPageTest (){
 
-        HomePage homepage = new HomePage(getDriver());
+        homepagefar homepage = new homepagefar(getDriver());
     WomenSectionPage womenSectionPage = new WomenSectionPage(getDriver());
     womenSectionPage.ClickOnShopByCategory();
     waitFor(3);

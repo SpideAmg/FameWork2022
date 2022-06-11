@@ -6,9 +6,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class HomePage extends CommonAPI {
+public class homepagefar extends CommonAPI {
 
-    public HomePage(WebDriver driver) {
+    public homepagefar(WebDriver driver) {
         PageFactory.initElements(driver, this);
     }
 

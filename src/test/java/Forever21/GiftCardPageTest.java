@@ -3,8 +3,6 @@ package Forever21;
 import base.CommonAPI;
 import org.testng.annotations.Test;
 import pages.GiftCardPage;
-import pages.HomePage;
-import pages.LoginPage;
 
 public class GiftCardPageTest extends CommonAPI {
 
