@@ -1,7 +1,7 @@
 package Forever21;
 import base.CommonAPI;
 import org.testng.annotations.Test;
-import pages.LoginPage;
+import FarzanaPages.LoginPage;
 
 
         public class LoginPageTest extends CommonAPI {

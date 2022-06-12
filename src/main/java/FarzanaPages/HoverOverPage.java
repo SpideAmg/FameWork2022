@@ -1,4 +1,4 @@
-package pages;
+package FarzanaPages;
 
 public class HoverOverPage {
 }

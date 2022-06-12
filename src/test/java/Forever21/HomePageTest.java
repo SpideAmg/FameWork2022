@@ -2,8 +2,8 @@ package Forever21;
 
 import base.CommonAPI;
 import org.testng.annotations.Test;
-import pages.homepagefar;
-import pages.WomenSectionPage;
+import FarzanaPages.homepagefar;
+import FarzanaPages.WomenSectionPage;
 
 public class HomePageTest extends CommonAPI {
 

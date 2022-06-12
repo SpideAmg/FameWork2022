@@ -1,4 +1,4 @@
-package pages;
+package FarzanaPages;
 
 import base.CommonAPI;
 import org.openqa.selenium.WebDriver;

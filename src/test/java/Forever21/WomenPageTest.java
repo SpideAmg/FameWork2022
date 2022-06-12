@@ -2,7 +2,7 @@ package Forever21;
 
 import base.CommonAPI;
 import org.testng.annotations.Test;
-import pages.WomenSectionPage;
+import FarzanaPages.WomenSectionPage;
 
 public class WomenPageTest extends CommonAPI {
 
