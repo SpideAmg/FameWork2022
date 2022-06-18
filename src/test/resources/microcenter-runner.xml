@@ -94,7 +94,6 @@
                 </classes>
             </test>
 
-
                 <test name="OnlineCatalogPage microcenter">
                     <classes>
                         <class name="microcenter.OnlineCatalogTest"></class>
